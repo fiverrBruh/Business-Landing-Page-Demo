@@ -1,0 +1,57 @@
+/*		Tablet Layout: 768px  */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+
+#service .single-service {
+  margin-bottom: 50px;
+}
+
+}
+
+
+
+/*		Mobile Layout: 320px.  */
+
+@media only screen and (max-width: 767px) {
+	
+
+#slides .slides-container .slides-content h2 {
+  font-size: 40px;
+}
+#slides .slides-container .slides-content h1{
+  font-size: 50px;	
+}
+.slides-navigation {
+  display: none;
+}
+.slides-pagination {
+  bottom: 32%;
+}
+.about-img img {
+  margin-bottom: 50px;
+}
+#service .single-service {
+  margin-bottom: 50px;
+}
+#latest-posts .col-md-6 a {
+  margin-bottom: 50px;
+}
+
+
+
+
+
+}
+
+
+
+/*		Wide Mobile Layout: 480px    */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+
+
+
+
+}
